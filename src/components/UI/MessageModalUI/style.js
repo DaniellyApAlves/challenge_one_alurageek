@@ -50,3 +50,4 @@ export const MessageModalUIContentHeader = styled.div`
 export const MessagemModalUIContentP = styled.p`
   
 `;
+

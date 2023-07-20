@@ -27,4 +27,4 @@ export function Button(props) {
       </button>
     </ButtonContainer>
   )
-};
+}

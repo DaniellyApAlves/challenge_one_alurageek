@@ -108,3 +108,4 @@ export function SearchBar({showSearchBar, productsList}) {
     </SearchBarContainer>
   )
 }
+

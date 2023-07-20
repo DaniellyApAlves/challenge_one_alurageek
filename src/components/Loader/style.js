@@ -44,3 +44,4 @@ export const LoaderItem = styled.span`
     animation-delay: .5s;
   }
 `;
+
